@@ -5,7 +5,7 @@ Step 3 : Add details in the textboxes and press the + button.
 Step 4 : New note will be added in the keeper.  
 Step 5 : Click on the delete (bin) icon/ button to delete the note.  
   
-## Images  
+### Images  
 Homepage (Before any changes)  
 ![image](https://user-images.githubusercontent.com/91786927/203783467-bad2bf4d-b3b8-49f0-adf6-7426c6463a0f.png)
   
