@@ -1,4 +1,6 @@
 # Keeper  
+  
+## Steps:
 Step 1 : Click on take a note input field.  
 Step 2 : Title and content input field will be visible.  
 Step 3 : Add details in the textboxes and press the + button.  
