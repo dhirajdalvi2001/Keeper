@@ -1,6 +1,6 @@
 # Keeper  
   
-## Steps:  
+## Steps:
 Step 1 : Click on take a note input field.  
 Step 2 : Title and content input field will be visible.  
 Step 3 : Add details in the textboxes and press the + button.  
@@ -8,22 +8,21 @@ Step 4 : New note will be added in the keeper.
 Step 5 : Click on the delete (bin) icon/ button to delete the note.  
   
 ## Images  
-###  Homepage (Before any changes)  
-![image](https://user-images.githubusercontent.com/91786927/218267857-f1073cb9-5dc6-43de-b457-81a19d14b807.png)  
+Homepage (Before any changes)  
+![image](https://user-images.githubusercontent.com/91786927/203783467-bad2bf4d-b3b8-49f0-adf6-7426c6463a0f.png)
   
-###  Homepage (After searching for a user)  
-![image](https://user-images.githubusercontent.com/91786927/218267873-e3379eca-cfe3-4f6b-8d30-580583f2f253.png)  
+###  Homepage (After clicking on the Take a note input field)  
+![image](https://user-images.githubusercontent.com/91786927/203783635-743a7b66-8128-4082-8b71-bb3026afb545.png)  
   
-###  Homepage (After User details are fetched)  
-![image](https://user-images.githubusercontent.com/91786927/218267895-526f514c-5f0e-41b9-8a2a-5d4ce9d40068.png)  
+###  Homepage (After Entering the title and content of the note)  
+![image](https://user-images.githubusercontent.com/91786927/203783828-b07c3f4f-f796-4e47-addd-3423f4241ac2.png)  
   
-##  Mobile View
+###  Homepage (After adding the note by clicking on the + button)  
+![image](https://user-images.githubusercontent.com/91786927/203783939-1a15ab43-3b80-4a4d-ab87-68eecfe1b696.png)  
+
   
-###  Homepage (Before any changes)  
-![image](https://user-images.githubusercontent.com/91786927/218268012-d6b6f5ba-ea18-4b0e-b812-05a040c221e2.png)  
+##Commands :  
   
-###  Homepage (After searching for a user)  
-![image](https://user-images.githubusercontent.com/91786927/218267988-e2195e22-8f02-48d3-a1a4-88474763259d.png)  
-  
-###  Homepage (After User details are fetched)  
-![image](https://user-images.githubusercontent.com/91786927/218267917-dab72f4b-930c-4fe2-a845-e8b64e253516.png)  
+dfx start  
+dfx deploy  
+npm start  
